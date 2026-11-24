@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.ShareSocial" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+</resources>

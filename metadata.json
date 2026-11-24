@@ -1,0 +1,6 @@
+{
+  "name": "ShareSocial",
+  "description": "A social media and short video sharing community app inspired by ShareChat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

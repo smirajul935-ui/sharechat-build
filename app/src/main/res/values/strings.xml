@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShareSocial</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_videos">Videos</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_profile">Profile</string>
+</resources>
